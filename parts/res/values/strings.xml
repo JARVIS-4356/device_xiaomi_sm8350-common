@@ -25,7 +25,7 @@
 
     <!-- Dolby -->
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_summary">Setting Dolby Atmos</string>
+    <string name="dolby_summary">GEQ Settings</string>
 
     <!-- Per-app refresh rate -->
     <string name="refresh_title">Per-app refresh rate</string>

@@ -25,8 +25,8 @@ import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity;
 
 public class DolbyActivity extends CollapsingToolbarBaseActivity {
 
-    private static final String DAX_PACKAGE_NAME = "com.dolby.daxappui";
-    private static final String DAX_ACTIVITY = "com.dolby.daxappui.MainActivity";
+    private static final String DAX_PACKAGE_NAME = "com.dolby.daxappui2";
+    private static final String DAX_ACTIVITY = "com.dolby.daxappui2.MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
